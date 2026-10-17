@@ -1,0 +1,18 @@
+# Compilados
+target/
+out/
+*.class
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Credenciales y configuracion local
+src/main/resources/database-local.properties
+.env
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+src/main/resources/database.properties

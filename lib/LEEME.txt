@@ -1,0 +1,3 @@
+El proyecto declara MySQL Connector/J en pom.xml.
+Maven descarga automaticamente el driver al compilar.
+No se incluye el archivo JAR dentro de la entrega para evitar duplicar dependencias.
